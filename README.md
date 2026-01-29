@@ -25,5 +25,5 @@ Të gjitha të dhënat ruhen në një skedar CSV.
 ## Instalimi
 1. Klono projektin:
 ```bash
-git clone https://github.com/USERNAME/books-scraping-project.git
+git clone https://github.com/romeoballaaa/books-scraping-project.git
 cd books-scraping-project
